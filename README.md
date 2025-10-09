@@ -1,13 +1,14 @@
-## Hi there 👋
+# Jupyter Notebooks
+#!/usr/bin/env python3
 
-Welcome to my GitHub profile!
+from math import pi
 
-- 🔭 I’m currently working on exciting software projects.
-- 🌱 I’m currently learning advanced Python and cloud technologies.
-- 👯 I’m looking to collaborate on open-source and innovative tech solutions.
-- 🤔 I’m looking for help with DevOps best practices.
-- 💬 Ask me about Python, JavaScript, or cloud computing.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I love solving puzzles and exploring new tech trends!
-hi
+if __name__=="__main__":
+    pizza_size = 10
+    number_of_pizzas = 2
+
+    pizza_area = pi * (pizza size / 2) ** 2
+    total_area = pizza_area * number_of_pizzas
+
+        print(f"A {pizza_size}-inch pizza has an area of {pizza_area:.2f} square inches.")
+    print(f"So in total you have a total pizza area of {total_area:.2f} square inches.")
