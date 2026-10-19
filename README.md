@@ -7,6 +7,6 @@ Welcome to my GitHub profile!
 - 👯 I’m looking to collaborate on open-source and innovative tech solutions.
 - 🤔 I’m looking for help with DevOps best practices.
 - 💬 Ask me about Python, JavaScript, or cloud computing.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [greatijbekoe@gmail.com](mailto:greatijbekoe@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring new tech trends and playing sports!
